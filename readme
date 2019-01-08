@@ -1,0 +1,26 @@
+# CAMELS-CL
+
+CAMELS-CL is a database developed by Alvarez-Garreton et al., (2018) for large sample studies in the field of hydro-meteorology.
+
+This repository contains examples on how to download and use the dataset and the codes used to compute catchment attributes.
+
+Importantly, we will inform here to the community if there is any update in the database.
+
+CAMELS-CL can be visualised from [https://camels.cr2.cl].  
+
+### Table of Contents
+
+* [Downloading H2O-3](#Downloading)
+* [Open Source Resources](#Resources)
+    * [Issue Tracking and Feature Requests](#IssueTracking)
+    * [List of H2O Resources](#OpenSourceResources)
+* [Using H2O-3 Code Artifacts (libraries)](#Artifacts)
+* [Building H2O-3](#Building)
+* [Launching H2O after Building](#Launching)
+* [Building H2O on Hadoop](#BuildingHadoop)
+* [Sparkling Water](#Sparkling)
+* [Documentation](#Documentation)
+* [Citing H2O](#Citing)
+* [Community](#Community) / [Advisors](#Advisors) / [Investors](#Investors)
+
+<a name="Downloading"></a>
