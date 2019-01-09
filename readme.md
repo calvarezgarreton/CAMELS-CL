@@ -8,10 +8,10 @@ CAMELS-CL can be visualised from https://camels.cr2.cl.
 
 What you will find in this repository:
 
-1) the codes used to compute catchment attributes.
-2) examples on how to download and use the dataset.
-3) information about updates in the dataset.
-4) a platform to provide comments, to request specific information (scripts, examples, data sources, etc.), and to inform about bugs and errors found while using the dataset. 
+1) The codes used to compute catchment attributes.
+2) Examples on how to download and use the dataset.
+3) Information about updates in the dataset.
+4) A platform to provide comments, to request specific information (scripts, examples, data sources, etc.), and to inform about bugs and errors found while using the dataset. 
 
 ### Table of Contents
 
@@ -19,9 +19,18 @@ What you will find in this repository:
 * [Examples](#examples)
     * [Load and visualise data for single catchment](#IssueTracking)
     * [Load and visualise data for several catchments](#OpenSourceResources)
+* [Providing comments and reporting issues](#issues)
 
 <a name="description"></a>
 ### 1. Datasets description
 
 While most of this README is written for developers who do their own builds, most H2O users just download and use a pre-built version.  If you are a Python or R user, the easiest way to install H2O is via [PyPI](https://pypi.python.org/pypi/h2o) or [Anaconda](https://anaconda.org/h2oai/h2o) (for Python) or [CRAN](https://CRAN.R-project.org/package=h2o) (for R):  
+
+<a name="description"></a>
+### 2. Examples
+
+
+<a name="description"></a>
+### 3. Comments and issues
+
 
