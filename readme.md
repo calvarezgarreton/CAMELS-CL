@@ -17,16 +17,15 @@ What you will find in this repository:
 
 * [Datasets description](#description)
 * [Examples](#examples)
-    * [Load and visualise data for single catchment](#IssueTracking)
-    * [Load and visualise data for several catchments](#OpenSourceResources)
+    * [Load and visualise data for single catchment](#one_catchment)
+    * [Load and visualise data for several catchments](#several_catchments)
 * [Providing comments and reporting issues](#issues)
 
 <a name="description"></a>
 ### 1. Datasets description
 
-While most of this README is written for developers who do their own builds, most H2O users just download and use a pre-built version.  If you are a Python or R user, the easiest way to install H2O is via [PyPI](https://pypi.python.org/pypi/h2o) or [Anaconda](https://anaconda.org/h2oai/h2o) (for Python) or [CRAN](https://CRAN.R-project.org/package=h2o) (for R):  
 
-<a name="description"></a>
+<a name="examples"></a>
 ### 2. Examples
 
 
