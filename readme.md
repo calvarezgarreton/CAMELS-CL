@@ -11,7 +11,7 @@ What you will find in this repository:
 1) The codes used to compute catchment attributes.
 2) Examples on how to download and use the dataset.
 3) Information about updates in the dataset.
-4) A platform to provide comments, to request specific information (scripts, examples, data sources, etc.), and to inform about bugs and errors found while using the dataset. 
+4) A platform to provide comments, to request specific information (scripts, examples, data sources, etc.), and to inform about bugs and errors found while using the dataset: [Comments & issues](https://github.com/calvarezgarreton/camels-cl/issues) 
 
 ### Table of Contents
 
@@ -32,5 +32,5 @@ While most of this README is written for developers who do their own builds, mos
 
 <a name="description"></a>
 ### 3. Comments and issues
-
+In this [link](https://github.com/calvarezgarreton/camels-cl/issues), you can provide comments, report bugs and errors and request for specific information and examples. 
 
