@@ -6,6 +6,8 @@ CAMELS-CL can be visualised from https://camels.cr2.cl.
 
 Reference: Alvarez-Garreton, C., Mendoza, P. A., Boisier, J. P., Addor, N., Galleguillos, M., Zambrano-Bigiarini, M., Lara, A., Puelma, C., Cortes, G., Garreaud, R., McPhee, J., and Ayala, A.: The CAMELS-CL dataset: catchment attributes and meteorology for large sample studies – Chile dataset, Hydrol. Earth Syst. Sci., 22, 5817-5846, https://doi.org/10.5194/hess-22-5817-2018, 2018. 
 
+This research emerged from the collaboration with many colleagues at the Center for Climate and Resilience Research (CR2, CONICYT/FONDAP/15110009). Camila Alvarez-Garreton was funded by FONDECYT postdoctoral grant no. 3170428. Pablo Mendoza received additional support from FONDECYT postdoctoral grant no. 3170079. Mauricio Zambrano-Bigiarini thanks FONDECYT 11150861 for financial support. The development of CR2MET was supported by the Chilean Water Directorate (DGA), through National Water Balance Updating Project DGA-2319, and by FONDECYT grant no. 3150492. This study is a contribution to the Large-sample Hydrology working group of the Panta Rhei Research Initiative of the International Association of Hydrological Sciences (IAHS).
+
 ### What you will find in this repository:
 
 * [Datasets description](#description)
