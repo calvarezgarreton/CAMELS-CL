@@ -18,7 +18,7 @@ CAMELS-CL can be visualised from https://camels.cr2.cl.
     * [Load and visualise data for several catchments](#OpenSourceResources)
 
 <a name="description"></a>
-## 1. Datasets description
+### 1. Datasets description
 
 While most of this README is written for developers who do their own builds, most H2O users just download and use a pre-built version.  If you are a Python or R user, the easiest way to install H2O is via [PyPI](https://pypi.python.org/pypi/h2o) or [Anaconda](https://anaconda.org/h2oai/h2o) (for Python) or [CRAN](https://CRAN.R-project.org/package=h2o) (for R):  
 
