@@ -86,7 +86,10 @@ basin  <- shapefile(paste(path_folder,"/camels_cl_",gauge_id,"/polygon/polygon.s
   grid.table(t(attrib_table),theme=t1,cols = NULL)
 ```
 
-![](load_single_catchment_files/figure-markdown_github/unnamed-chunk-3-1.png) \#\#\# 4) Graficar series de tiempo Se puede cargar cualquiera de las series de tiempo descargadas del explorador camels-cl.
+![](load_single_catchment_files/figure-markdown_github/unnamed-chunk-3-1.png) 
+
+### 4) Graficar series de tiempo
+Se puede cargar cualquiera de las series de tiempo descargadas del explorador camels-cl.
 
 ``` r
 ts1 <- ts1[ts1$date>=date_ini & ts1$date<=date_end,]
