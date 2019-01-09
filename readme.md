@@ -16,20 +16,26 @@ What you will find in this repository:
 ### Table of Contents
 
 * [Datasets description](#description)
+* [Provide comments, request information and report issues](#issues)
 * [Examples](#examples)
     * [Load and visualise data for single catchment](#one_catchment)
     * [Load and visualise data for several catchments](#several_catchments)
-* [Providing comments and reporting issues](#issues)
+* [Codes for computing catchment attributes](#codes)
+* [Current applications](#applications)
+* [Future work](#future_work)
 
 <a name="description"></a>
 ### 1. Datasets description
 
+<a name="issues"></a>
+### 2. Comments and issues
+In this [link](https://github.com/calvarezgarreton/camels-cl/issues), you can provide comments, report bugs and errors and request for specific information (e.g., scripts, examples, data sources) and suggest for examples to be published in the repository. 
+
+To inform about bugs and errors found while using the dataset is critical for generating improved versions of the dataset. One of the main sources of errors is streamflow gauge location (see discussion in [Alvarez-Garreton et al., (2018)](https://www.hydrol-earth-syst-sci.net/22/5817/2018/)), therefore, if a better location (based on field data) is provided we can update all the information for the corresponding catchment.
 
 <a name="examples"></a>
-### 2. Examples
+### 3. Examples
+We have an example oon how to load and visualise data for single catchment: 
 
 
-<a name="description"></a>
-### 3. Comments and issues
-In this [link](https://github.com/calvarezgarreton/camels-cl/issues), you can provide comments, report bugs and errors and request for specific information and examples. 
 
