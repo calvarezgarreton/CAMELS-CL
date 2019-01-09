@@ -35,7 +35,7 @@ Informing about bugs and errors found while using the dataset is critical for ge
 
 <a name="codes"></a>
 ### 4. Codes
-The codes for computing catchment attributes were obtained from Nans Addor Github (https://github.com/naddor/camels). These codes were used for computing the CAMELS dataset for the US [(Addor et al., 2017)](https://www.hydrol-earth-syst-sci.net/21/5293/2017/)  
+The codes for computing catchment attributes were obtained from Nans Addor [Github](https://github.com/naddor/camels). These codes were used for computing the CAMELS dataset for the US [(Addor et al., 2017)](https://www.hydrol-earth-syst-sci.net/21/5293/2017/)  
 
 <a name="applications"></a>
 ### 5. Current applications
