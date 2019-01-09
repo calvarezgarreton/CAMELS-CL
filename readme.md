@@ -12,17 +12,9 @@ CAMELS-CL can be visualised from https://camels.cr2.cl.
 
 ### Table of Contents
 
-* [Datasets description](#Downloading)
-* [Example scripts](#Resources)
-    * [Issue Tracking and Feature Requests](#IssueTracking)
-    * [List of H2O Resources](#OpenSourceResources)
-* [Using H2O-3 Code Artifacts (libraries)](#Artifacts)
-* [Building H2O-3](#Building)
-* [Launching H2O after Building](#Launching)
-* [Building H2O on Hadoop](#BuildingHadoop)
-* [Sparkling Water](#Sparkling)
-* [Documentation](#Documentation)
-* [Citing H2O](#Citing)
-* [Community](#Community) / [Advisors](#Advisors) / [Investors](#Investors)
+* [Datasets description](#description)
+* [Examples](#examples)
+    * [Load and visualise data for single catchment](#IssueTracking)
+    * [Load and visualise data for several catchment](#OpenSourceResources)
 
 <a name="Downloading"></a>
