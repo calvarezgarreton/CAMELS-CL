@@ -35,7 +35,15 @@ To inform about bugs and errors found while using the dataset is critical for ge
 
 <a name="examples"></a>
 ### 3. Examples
-We have an example oon how to load and visualise data for single catchment: 
+We have an example oon how to load and visualise data for single catchment: [github example](https://github.com/calvarezgarreton/camels-cl/blob/master/examples/load_single_catchment.md)
+
+<a name="codes"></a>
+### 4. Codes
+The codes for computing catchment attributes were obtained from Nans Addor Github (https://github.com/naddor/camels). These codes were used for computing the CAMELS dataset for the US [(Addor et al., 2017)](https://www.hydrol-earth-syst-sci.net/21/5293/2017/)  
+
+<a name="applications"></a>
+### 4. Current applications
 
 
-
+<a name="future_work"></a>
+### 5. Future work
