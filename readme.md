@@ -4,16 +4,9 @@ CAMELS-CL is a catchment database that relies on multiple data sources (includin
 
 CAMELS-CL can be visualised from https://camels.cr2.cl. 
 
-What you will find in this repository:
-
-1) The codes used to compute catchment attributes.
-2) Examples on how to download and use the dataset.
-3) Information about updates in the dataset.
-4) A platform to provide comments, to request specific information (scripts, examples, data sources, etc.), and to inform about bugs and errors found while using the dataset: [Comments & issues](https://github.com/calvarezgarreton/camels-cl/issues) 
-
 Reference: Alvarez-Garreton, C., Mendoza, P. A., Boisier, J. P., Addor, N., Galleguillos, M., Zambrano-Bigiarini, M., Lara, A., Puelma, C., Cortes, G., Garreaud, R., McPhee, J., and Ayala, A.: The CAMELS-CL dataset: catchment attributes and meteorology for large sample studies – Chile dataset, Hydrol. Earth Syst. Sci., 22, 5817-5846, https://doi.org/10.5194/hess-22-5817-2018, 2018. 
 
-### Table of Contents
+### What you will find in this repository:
 
 * [Datasets description](#description)
 * [Provide comments, request information and report issues](#issues)
