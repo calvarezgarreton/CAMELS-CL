@@ -12,8 +12,8 @@ CAMELS-CL can be visualised from https://camels.cr2.cl.
 
 ### Table of Contents
 
-* [Downloading H2O-3](#Downloading)
-* [Open Source Resources](#Resources)
+* [Datasets description](#Downloading)
+* [Example scripts](#Resources)
     * [Issue Tracking and Feature Requests](#IssueTracking)
     * [List of H2O Resources](#OpenSourceResources)
 * [Using H2O-3 Code Artifacts (libraries)](#Artifacts)
