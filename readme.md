@@ -20,25 +20,25 @@ This research emerged from the collaboration with many colleagues at the Center 
 * [Future work](#future_work)
 
 <a name="description"></a>
-#### 1. Datasets description
+### 1. Datasets description
 
 <a name="issues"></a>
-#### 2. Comments and issues
+### 2. Comments and issues
 In this [link](https://github.com/calvarezgarreton/camels-cl/issues), you can provide comments, report bugs and errors and request for specific information (e.g., scripts, examples, data sources) and suggest for examples to be published in the repository. 
 
 To inform about bugs and errors found while using the dataset is critical for generating improved versions of the dataset. One of the main sources of errors is streamflow gauge location (see discussion in [Alvarez-Garreton et al., (2018)](https://www.hydrol-earth-syst-sci.net/22/5817/2018/)), therefore, if a better location (based on field data) is provided we can update all the information for the corresponding catchment.
 
 <a name="examples"></a>
-#### 3. Examples
+### 3. Examples
 We have an example oon how to load and visualise data for single catchment: [github example](https://github.com/calvarezgarreton/camels-cl/blob/master/examples/load_single_catchment.md)
 
 <a name="codes"></a>
-#### 4. Codes
+### 4. Codes
 The codes for computing catchment attributes were obtained from Nans Addor Github (https://github.com/naddor/camels). These codes were used for computing the CAMELS dataset for the US [(Addor et al., 2017)](https://www.hydrol-earth-syst-sci.net/21/5293/2017/)  
 
 <a name="applications"></a>
-#### 5. Current applications
+### 5. Current applications
 
 
 <a name="future_work"></a>
-#### 6. Future work
+### 6. Future work
