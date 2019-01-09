@@ -15,7 +15,7 @@ CAMELS-CL can be visualised from https://camels.cr2.cl.
 * [Datasets description](#description)
 * [Examples](#examples)
     * [Load and visualise data for single catchment](#IssueTracking)
-    * [Load and visualise data for several catchment](#OpenSourceResources)
+    * [Load and visualise data for several catchments](#OpenSourceResources)
 
 <a name="description"></a>
 ## 1. Datasets description
